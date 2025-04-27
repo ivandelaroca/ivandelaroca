@@ -1,9 +1,10 @@
 <h1>Hi, I'm Ivan! <br/><a href="https://www.linkedin.com/in/ivandelaroca/">Information Technology Novice
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h1>👨‍💻 IT Projects: <h1>
 
 - <b>Step-by-Step Walkthrough: Azure</b>
   - [Creating an Azure Storage Account](https://github.com/ivandelaroca/Creating-an-Azure-Storage-Account)
+  - [Creating an Azure Resource Group](https://github.com/ivandelaroca/Creating-an-Azure-Resource-Group)
 
 <h2>📜 Certifications</h2>
 
