@@ -7,7 +7,7 @@
 
 <h2>📜 Certifications</h2>
 
-- [IT Support Professional](https://github.com/comingsoon)
+- [IT Support Professional](Insert Link)
 
 <h2> 🤳 Connect with me:</h2>
 
