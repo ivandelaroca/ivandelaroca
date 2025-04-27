@@ -5,6 +5,7 @@
 - <b>Step-by-Step Walkthrough: Azure</b>
   - [Creating an Azure Storage Account](https://github.com/ivandelaroca/Creating-an-Azure-Storage-Account)
   - [Creating an Azure Resource Group](https://github.com/ivandelaroca/Creating-an-Azure-Resource-Group)
+  - [Deleting an Azure Resource Group](https://github.com/ivandelaroca/How-to-Delete-an-Azure-Resource-Group)
 
 <h2>📜 Certifications</h2>
 
