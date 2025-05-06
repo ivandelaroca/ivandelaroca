@@ -6,6 +6,7 @@
   - [Creating an Azure Storage Account](https://github.com/ivandelaroca/Creating-an-Azure-Storage-Account)
   - [Creating an Azure Resource Group](https://github.com/ivandelaroca/Creating-an-Azure-Resource-Group)
   - [Deleting an Azure Resource Group](https://github.com/ivandelaroca/How-to-Delete-an-Azure-Resource-Group)
+  - [Upload and Edit a Text File in Azure Storage Account](https://github.com/ivandelaroca/Upload-and-Edit-a-Text-File-in-Azure-Storage-Account)
 
 <h2>📜 Certifications</h2>
 
